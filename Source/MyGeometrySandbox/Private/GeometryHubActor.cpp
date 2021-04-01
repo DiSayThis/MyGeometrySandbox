@@ -112,7 +112,7 @@ void AGeometryHubActor::OnTimerFinished(AActor* Actor)
 	UE_LOG(LogGeometryHub, Error, TEXT("Timer finished: %s"), *Actor->GetName());
 	ABaseGeometryActor* Geometry = Cast<ABaseGeometryActor>(Actor);
 	if (!Geometry) return;
-	//UE_LOG(LogGeometryHub, Display, TEXT("Cast is success,amplitude %f"), Geometry->GetGeometryData().Amplitude);
+	UE_LOG(LogGeometryHub, Display, TEXT("Cast is success,amplitude %f"), Geometry->GetGeometryData().Amplitude);
 	Geometry->Destroy();
 	//Geometry->SetLifeSpan(2.0f);
 }

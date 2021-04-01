@@ -59,6 +59,6 @@ private:
 
 	UFUNCTION()
 		void OnColorChanged(const FLinearColor& Color, const FString& Name);
-
+	//комент
 	void OnTimerFinished(AActor* Actor);
 };

@@ -1,0 +1,7 @@
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\MyGeometrySandbox\Definitions.MyGeometrySandbox.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Source\MyGeometrySandbox/Public/GeometryHubActor.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Source\MyGeometrySandbox\Public\BaseGeometryActor.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\MyGeometrySandbox\BaseGeometryActor.generated.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\MyGeometrySandbox\GeometryHubActor.generated.h

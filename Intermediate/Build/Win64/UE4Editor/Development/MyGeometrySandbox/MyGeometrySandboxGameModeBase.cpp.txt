@@ -1,0 +1,11 @@
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\MyGeometrySandbox\Definitions.MyGeometrySandbox.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Source\MyGeometrySandbox\MyGeometrySandboxGameModeBase.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\MyGeometrySandbox\MyGeometrySandboxGameModeBase.generated.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Source\MyGeometrySandbox\Public\SandBoxPawn.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\MyGeometrySandbox\SandBoxPawn.generated.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Source\MyGeometrySandbox\Public\SandboxPlayerController.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\MyGeometrySandbox\SandboxPlayerController.generated.h

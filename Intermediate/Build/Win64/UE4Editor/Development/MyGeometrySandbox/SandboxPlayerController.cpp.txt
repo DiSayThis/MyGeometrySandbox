@@ -1,0 +1,16 @@
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\MyGeometrySandbox\Definitions.MyGeometrySandbox.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Source\MyGeometrySandbox\Public\SandboxPlayerController.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\MyGeometrySandbox\SandboxPlayerController.generated.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Game\Epic Games\EGS\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Source\MyGeometrySandbox\Public\SandBoxPawn.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\MyGeometrySandbox\SandBoxPawn.generated.h

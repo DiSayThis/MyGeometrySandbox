@@ -1,0 +1,5 @@
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\MyGeometrySandbox\Definitions.MyGeometrySandbox.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Source\MyGeometrySandbox\Public\GeometryHubActor.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Source\MyGeometrySandbox\Public\BaseGeometryActor.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\MyGeometrySandbox\BaseGeometryActor.generated.h
+D:\Users\aosky\Projects\UnrealProjects\MyGeometrySandbox\Intermediate\Build\Win64\UE4Editor\Inc\MyGeometrySandbox\GeometryHubActor.generated.h
